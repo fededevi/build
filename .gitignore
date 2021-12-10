@@ -1,0 +1,6 @@
+# ignore these
+*
+# except foo
+!build.sh
+!README.md
+!.gitignore
